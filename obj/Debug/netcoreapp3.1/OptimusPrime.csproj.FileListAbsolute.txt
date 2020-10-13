@@ -1,0 +1,13 @@
+C:\Users\bookw\OneDrive\College\Coding\Miscellaneous\OptimusPrime\obj\Debug\netcoreapp3.1\OptimusPrime.csprojAssemblyReference.cache
+C:\Users\bookw\OneDrive\College\Coding\Miscellaneous\OptimusPrime\obj\Debug\netcoreapp3.1\OptimusPrime.AssemblyInfoInputs.cache
+C:\Users\bookw\OneDrive\College\Coding\Miscellaneous\OptimusPrime\obj\Debug\netcoreapp3.1\OptimusPrime.AssemblyInfo.cs
+C:\Users\bookw\OneDrive\College\Coding\Miscellaneous\OptimusPrime\obj\Debug\netcoreapp3.1\OptimusPrime.csproj.CoreCompileInputs.cache
+C:\Users\bookw\OneDrive\College\Coding\Miscellaneous\OptimusPrime\bin\Debug\netcoreapp3.1\OptimusPrime.exe
+C:\Users\bookw\OneDrive\College\Coding\Miscellaneous\OptimusPrime\bin\Debug\netcoreapp3.1\OptimusPrime.deps.json
+C:\Users\bookw\OneDrive\College\Coding\Miscellaneous\OptimusPrime\bin\Debug\netcoreapp3.1\OptimusPrime.runtimeconfig.json
+C:\Users\bookw\OneDrive\College\Coding\Miscellaneous\OptimusPrime\bin\Debug\netcoreapp3.1\OptimusPrime.runtimeconfig.dev.json
+C:\Users\bookw\OneDrive\College\Coding\Miscellaneous\OptimusPrime\bin\Debug\netcoreapp3.1\OptimusPrime.dll
+C:\Users\bookw\OneDrive\College\Coding\Miscellaneous\OptimusPrime\bin\Debug\netcoreapp3.1\OptimusPrime.pdb
+C:\Users\bookw\OneDrive\College\Coding\Miscellaneous\OptimusPrime\obj\Debug\netcoreapp3.1\OptimusPrime.dll
+C:\Users\bookw\OneDrive\College\Coding\Miscellaneous\OptimusPrime\obj\Debug\netcoreapp3.1\OptimusPrime.pdb
+C:\Users\bookw\OneDrive\College\Coding\Miscellaneous\OptimusPrime\obj\Debug\netcoreapp3.1\OptimusPrime.genruntimeconfig.cache
