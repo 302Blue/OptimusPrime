@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 namespace OptimusPrime {
-    class Program {
+    class OptimusProgram {
         static void Main(string[] args) {
             foreach (int val in Primality()) {
                 Console.WriteLine(val);
